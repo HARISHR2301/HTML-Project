@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>projects</title>
+</head>
+<body style="
+	background-image:url(img7.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;"
+>
+<style>
+body{
+	margin: 0;
+	padding: 0;
+	background-color: transparent;
+	font-family: Century Gothic;
+	padding: 12em;
+	text-align: center;
+	color: tomato;
+}	
+h1{
+	font-size: 40px;
+	font-weight: lighter;
+	text-align: center;
+}
+
+block{
+	font-size: 20px;
+	padding: 3em;
+	position: relative;
+	top: 25%;
+	transform: translateY(-50%);
+	break-after: auto;
+	page-break-after: auto;
+
+}
+section{
+	display: block;
+	max-width: 1px;
+	max-height: 5px;
+	background: transparent;
+	margin: 0 auto 1em;
+	height: auto;
+	position: relative;
+	border-right: .2em;
+	transform: perserve-3d;
+	break-before: auto;
+	page-break-before: auto;
+}
+p{
+	
+	margin-right: 23px;
+	margin-top: 23px;
+	margin-left: 23px;
+	margin-bottom: 23px;
+	color:tomato;
+
+}
+
+</style>
+
+	<h1>Ingenious Projects</h1>
+
+		<h2>List Of Projects</h2>
+
+		<p>	
+		<ul>
+			<li>Smart Gloves for Communication</li>
+			<li>Working of light dependent resistor</li>
+			<li>Wireless Remote to Control 255 Different Appliances Individually</li>
+			<li>Wireless motor control through RF</li>
+			<li>Wireless message Communication Between Two Computers</li>
+			<li>Wireless Electronic Notice Board Using GSM</li>
+			<li>Wireless Control Of Robotic Arm</li>
+			<li>Wireless Audio Transmitter for TV</li>
+			<li>Water Tank Overflow Alarm</li>
+			<li>Water Sensor Circuit</li>
+			<li>War Field Spying Robot with Night Vision Wireless Camera</li>
+			<li>Voltage Doubler Circuit Using IC 4049</li>
+			<li>Voltage boost by using a resistor with 78XX</li>
+			<li>Voice Controlled WheelChair</li>
+			<li>Visually Camouflaged Vehicles for Military Purposes</li>
+			<li>Visual Monitoring and Alerting System for Restricted Areas</li>
+			<li>Vision Operated Home Automation For the Physically Disabled</li>
+			<li>Video Activated Relay to Control the Load</li>
+			<li>Vibration Alert System for the Deaf</li>
+			<li>Velocity Detector Using Ultrasonic Means</li>
+			<li>Vehicle Indicator</li>
+			<li>Variable power supply and charger with emergency light</li>
+			<li>Using TV Remote as a Cordless Mouse for the Computer</li>
+			<li>User Defined String Display and Marquee Scrolling using LED Array</li>
+			<li>Transistor based Security Alarm</li>
+			<li>Transistor Based Secret Bell</li>
+			<li>Transistor as audio amplifier</li>
+			<li>Transformerless Low Loss DC Converter</li>
+			<li>Touch Screen Based Remote Controlled Robotic Vehicle for Stores Management</li>
+			<li>Touch Screen Based Industrial Load Switching</li>
+			<li>Synchronized Traffic Signals at Various Junctions Using PIC Microcontroller</li>
+			<li>SVPWM Space Vector Pulse Width Modulation</li>
+			<li>Suitcase Security Alarm</li>
+			<li>Step Up 6 Volt DC to 10 Volt DC Using 555 Timer</li>
+			<li>Stamp Value Calculator for Postage Needs</li>
+			<li>RF Controlled Robotic Vehicle With Laser Beam Arrangement</li>
+			<li>RF Controlled Hovercraft</li>
+			<li>RF based Wireless Remote Control</li>
+			<li>RF based Intruder Alarm</li>
+			<li>Railway Track Security System</li>
+			<li>Railway Level Crossing Gate Control through SMS by the Station Master or the Driver</li>
+			<li>Quadracopter with Video transmission Ability</li>
+			<li>Quadracopter with Six Degrees of Freedom and Obstacle Avoidance Built in Pulse Counter Fed with Infrared Pulses</li>
+			<li>Programmable Switching Control for Industrial Automation in Repetitive Nature of Work</li>
+			<li>Programmable Load Shedding Time Management for Utility Department</li>
+			<li>Programmable Energy Meter for Electrical Load Survey Non inverting amplifier</li>
+			<li>Night Lamp with Timer for Stairs</li>
+			<li>Networking of Multiple Microcontrollers</li>
+			<li>Negative supply using 555 IC</li>
+			<li>NE 555 Timer based Automatic Headlight</li>
+			<li>Music (Data) transfer by IR</li>
+			<li>Multi-Utility Flashing Light</li>
+			<li>Multitone Generator Circuit</li>
+			<li>Location Mapping and Routing System for the Blind With GPS Support</li>
+			<li>Location Broadcaster Using Arduino Ethernet Interface</li>
+			<li>Liquid level Alarm</li>
+			<li>Lighting Controller Counts How Many People are in a Room</li>
+			<li>IR Obstacle Detection to Actuate Load</li>
+			<li>IR Controlled Robotic Vehicle</li>
+			<li>Invisible Image Watermarking in Python</li>
+			<li>Inverting amplifier with signal feedback</li>
+			<li>Humidity Detector Circuit</li>
+			<li>Home Automation Using Digital Control</li>
+			<li>Hit the Target Game</li>
+			<li>High Voltage DC Upto 2kv from AC by Using Diode and Capacitors in Voltage Multiplier Circuit</li>
+			<li>High Voltage DC by Marx Generator Principles</li>
+			<li>Hidden Active Cell Phone Detector</li>
+			<li>GPS enabled Quadracopter</li>
+			<li>Gesture Operated Wheel Chair</li>
+			<li>Generating time delay with 555 IC</li>
+			<li>AES256 bit Highly Encrypted Image Steganography</li>
+			<li>AES128 Encrypted hardware Lock Using AVR ATMEGA-16</li>
+			<li>Active high trigger for 555 in monostable mode</li>
+			<li>Accident Detection and Avoidance System Using Doppler Radar Interfaced with ATMEGA16</li>
+			<li>A Swarm of Mutually Interacting Metal Detecting Robots For Scanning the Area</li>
+			<li>A Multiple Bots Operated with a Single Base Station</li>
+		</ul>	
+		</p>
+</body>
+</html>

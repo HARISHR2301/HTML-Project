@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>video page</title>
+</head>
+<h1> Sample Project </h1>
+<h2> Project title: Smart Gloves for Communication </h2> 
+<body>	
+		<video width="auto" height="auto" controls played="auto">
+  		<source src="Smart.mp4" type="video/mp4">
+  		<source src="Smart.ogg" type="video/ogg">
+		</video>
+
+<style>
+h1{
+	font-size: 40px;
+	font-weight: lighter;
+	text-align: center;
+	color: rgb(23,23,99);
+}
+h2{
+	font-size: 23px;
+	font-weight: initial;
+	text-align: center;
+	color: rgb(23,23,99);
+}
+</style>
+</body>
+</html>

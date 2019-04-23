@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ingenious Projects</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<header>
+		<div class="main">
+			<div class="logo">
+				<img src="logo.jpg">
+			</div>
+			</div>
+			<div class="button1">
+				<a href=projects.html class="btn1">Projects</a>
+				<a href=IDEAS.html class="btn1">IDEAS</a>
+				<a href=contact.html class="btn1">Contact Us</a>
+			</div>
+			<ul>
+				<li class="active"><a href="#">Home</a></li>
+			</ul>
+		<div class="title">
+			<h1>Ingenious Projects</h1>
+		</div>
+		<div class="button">
+			<a href=video.html class="btn">WATCH VIDEO</a>
+			<a href=learn.html class="btn">LEARN MORE</a>
+		</div>
+	</header>
+
+</body>
+</html>
+
